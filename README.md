@@ -1,5 +1,9 @@
 # M1 — Modular Event Understanding
 
+> **Research archived — 24 October 2026. M1 remains NOT_FROZEN.**
+> Further M1 training was ended by the project owner. The [research snapshot](RESEARCH_SNAPSHOT_20261024.md) preserves successes, failures, sources and project-owned weights; it does not claim final qualification. Existing Experimental 1 and the documented API below remain unchanged.
+> [Research release](https://github.com/XRedMzK/M1-Event-Understanding/releases/tag/research-snapshot-20261024) · [Architecture history](ARCHITECTURE_HISTORY.md) · [Checkpoints](CHECKPOINT_CATALOG.md) · [Known limitations](KNOWN_LIMITATIONS.md) · [Reproduction](REPRODUCIBILITY.md) · [Rights/data](RESEARCH_RIGHTS_AND_DATA.md)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Status: experimental](https://img.shields.io/badge/Status-experimental-orange.svg)
 
